@@ -2,31 +2,27 @@
 
 ### ANA EKRAN
 <p align="center">
-  <img src="" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/116828362-e7fd7380-aba6-11eb-8c63-420808ba9e7f.png" width="350" title="hover text">
 </p>
- 
  
  ### ANA EKRAN
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/116828281-61e12d00-aba6-11eb-83ac-19d382fc67a9.png" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/116828368-f21f7200-aba6-11eb-89ab-032f16751aab.png" width="350" title="hover text">
 </p>
 
 ### ANA EKRAN
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/116828282-660d4a80-aba6-11eb-8ebf-29e4dd15c35e.png" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/116828373-fc417080-aba6-11eb-94a1-396ea7b97720.jpg" width="350" title="hover text">
 </p>
 
 ### ANA EKRAN
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/116828285-69083b00-aba6-11eb-97b6-d2d6299e2366.jpg" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/116828386-0f544080-aba7-11eb-942b-0c0935af4acd.jpg" width="350" title="hover text">
 </p>
 
 ### ANA EKRAN
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/116828290-6d345880-aba6-11eb-88cc-6f029d03f1ab.jpg" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/116828392-17ac7b80-aba7-11eb-99de-918577e82927.PNG" width="350" title="hover text">
 </p>
 
-### ANA EKRAN
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/116828297-70c7df80-aba6-11eb-8428-666992a43f5d.PNG" width="350" title="hover text">
-</p>
+
