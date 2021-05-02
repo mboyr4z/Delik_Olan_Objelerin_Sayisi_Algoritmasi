@@ -14,8 +14,8 @@
   <li></li>
 </ul>
  
- ### Kenarları Çizilmiş Hali
-<p align="center" id="id_2">
+ <h3 id="id_2"> Kenarları Çizilmiş Hali</h3>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/82450697/116828368-f21f7200-aba6-11eb-89ab-032f16751aab.png" width="350" title="hover text">
 </p>
 
