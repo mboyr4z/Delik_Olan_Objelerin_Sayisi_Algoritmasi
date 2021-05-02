@@ -9,9 +9,9 @@
 
 <ul type="square">
   <li>İlk önce, birbiriyle komşu olan siyah noktalar gruplanır "functions.recu fonksiyonu"</li>
-  <li>Gruplar Belli olduktan sonra, resmin etrafı siyah noktalarla çevrelenir ki obje ortasında olmayan beyaz noktalarla işimiz olmadığı için farklı renge boyarken "functions.beyazlari_boya()" fonksiyonu taşmaya uğramasın <a href = "#id_2">Bu kısımdaki hali</a></li>
-  <li></li>
-  <li></li>
+  <li>Gruplar Belli olduktan sonra, resmin etrafı siyah noktalarla çevrelenir ki obje ortasında olmayan beyaz noktalarla işimiz olmadığı için farklı renge boyarken "functions.beyazlari_boya()" fonksiyonu taşmaya uğramasın <a href = "#id_2">Kenarları Boyanmış Hali</a></li>
+  <li>Artık İşimize yaramayan beyaz noktalar dışarıdaki siyah kenar ile gruplamış olduğumuz noktalar arasında kalır</li>
+  <li>Bu aşamadan sonra işimize yaramayan beyazları boyayabiliriz "functions.beyazlari_boya()" <a href = "#id_3">Bu kısımdaki hali</a></li>
 </ul>
  
  <h3 id="id_2"> Kenarları Çizilmiş Hali</h3>
@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/82450697/116828368-f21f7200-aba6-11eb-89ab-032f16751aab.png" width="350" title="hover text">
 </p>
 
-### ANA EKRAN
+ <h3 id="id_3"> Boş Beyazlar Boyandı</h3>
 <p align="center" id="id_3">
   <img src="https://user-images.githubusercontent.com/82450697/116828373-fc417080-aba6-11eb-94a1-396ea7b97720.jpg" width="350" title="hover text">
 </p>
