@@ -1,6 +1,7 @@
 
 ## PROBLEM:
 Elimizde siyah-beyaz fotoğraf ve siyah olan noktalar kümesi objelerimizdir. Amacımız siyah kümelerden delik olanları bulmaktır. 
+Toplamda 6 adet objemiz var ve bu objelerden sadece 2 adedi deliktir.
 
 ### Orneğimizin İlk Hali
 <p align="center" id="id_1">
