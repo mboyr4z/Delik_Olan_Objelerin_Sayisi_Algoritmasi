@@ -1,4 +1,6 @@
-# Delik_Olan_Objelerin_Sayisi_Algoritmasi
+
+## PROBLEM:
+Elimizde siyah-beyaz fotoğraf ve siyah olan noktalar kümesi objelerimizdir. Amacımız siyah kümelerden delik olanları bulmaktır. 
 
 ### Orneğimizin İlk Hali
 <p align="center" id="id_1">
