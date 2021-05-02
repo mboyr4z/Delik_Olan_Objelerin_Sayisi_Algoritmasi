@@ -20,17 +20,17 @@
 </p>
 
  <h3 id="id_3"> Boş Beyazlar Boyandı</h3>
-<p align="center" id="id_3">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/82450697/116828373-fc417080-aba6-11eb-94a1-396ea7b97720.jpg" width="350" title="hover text">
 </p>
 
-### ANA EKRAN
-<p align="center" id="id_4">
+ <h3 id="id_4"> Gruplarımız ve Delik Oluşturan Beyazlar</h3>
+<p align="center" >
   <img src="https://user-images.githubusercontent.com/82450697/116828386-0f544080-aba7-11eb-942b-0c0935af4acd.jpg" width="350" title="hover text">
 </p>
 
-### ANA EKRAN
-<p align="center" id="id_5">
+ <h3  id="id_5"> Çıktımız </h3>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/82450697/116828392-17ac7b80-aba7-11eb-99de-918577e82927.PNG" width="350" title="hover text">
 </p>
 
