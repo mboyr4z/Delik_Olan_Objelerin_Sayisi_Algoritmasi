@@ -36,7 +36,7 @@
 
  <h3  id="id_45"> Çıktımız </h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82450697/116828788-a3bfa280-aba9-11eb-999c-8da08d304f19.PNG" width="1000" title="hover text">
+  <img src="https://user-images.githubusercontent.com/82450697/116828788-a3bfa280-aba9-11eb-999c-8da08d304f19.PNG" width="500" title="hover text">
 </p>
 
 
