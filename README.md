@@ -37,7 +37,7 @@ Toplamda 6 adet objemiz var ve bu objelerden sadece 2 adedi deliktir.
 </p>
 
 
- <h3  id="id_45"> Çıktımız </h3>
+ <h3  id="id_45"> Parça Kodumuz </h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82450697/116828788-a3bfa280-aba9-11eb-999c-8da08d304f19.PNG" width="500" title="hover text">
 </p>
